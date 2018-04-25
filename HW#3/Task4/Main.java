@@ -48,25 +48,7 @@ public class Main {
                 break;;
         }
     }
-    //    private static Map<String, Integer> sortByValue(Map<String, Integer> unsortedMap)
-//    {
-//        List<Map.Entry<String, Integer>> list =
-//                new LinkedList<Map.Entry<String, Integer>>(unsortedMap.entrySet());
-//
-//        Collections.sort(list, new Comparator<Map.Entry<String, Integer>>() {
-//            public int compare(Map.Entry<String, Integer> a,
-//                               Map.Entry<String, Integer> b) {
-//                return (b.getValue()).compareTo(a.getValue());
-//            }
-//        });
-//
-//        Map<String, Integer> sortedMap = new LinkedHashMap<String, Integer>();
-//        for (Map.Entry<String, Integer> entry : list) {
-//            sortedMap.put(entry.getKey(), entry.getValue());
-//        }
-//
-//        return sortedMap;
-//    }
+
 }
 
 
