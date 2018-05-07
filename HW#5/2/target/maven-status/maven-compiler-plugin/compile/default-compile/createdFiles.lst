@@ -1,0 +1,15 @@
+task2\tools\WaitTools.class
+task2\elements\Component.class
+task2\pages\PetsNewsPage$1.class
+task2\navigation\PageObject.class
+task2\steps\AbstractSteps.class
+task2\elements\ComponentObject.class
+task2\driver\DriverProvider.class
+task2\pages\PetsNewsPage$2.class
+task2\pages\PetsNewsPage.class
+task2\steps\elements\ShowMoreElementSteps.class
+task2\navigation\Page.class
+task2\navigation\UrlPattern.class
+task2\elements\show\ShowMoreElement.class
+task2\pages\AbstractPage.class
+task2\steps\PetsNewsPageSteps.class
