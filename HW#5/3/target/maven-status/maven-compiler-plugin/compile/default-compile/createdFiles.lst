@@ -1,0 +1,16 @@
+task3\elements\ComponentObject.class
+task3\steps\elements\PhotoTileSteps.class
+task3\steps\NewsCinemaPageSteps.class
+task3\tools\WaitTools.class
+task3\pages\AbstractPage.class
+task3\elements\PhotoTile.class
+task3\navigation\PageObject.class
+task3\pages\NewsCinemaPage$1.class
+task3\pages\NewsCinemaPage.class
+task3\data\SliderData.class
+task3\elements\SlideButton.class
+task3\driver\DriverProvider.class
+task3\steps\AbstractSteps.class
+task3\elements\Component.class
+task3\steps\elements\SlideButtonSteps.class
+task3\pages\NewsCinemaPage$2.class
