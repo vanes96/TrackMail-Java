@@ -1,0 +1,50 @@
+{
+  "uid" : "7b4863c604b73b10",
+  "name" : "Test2",
+  "fullName" : "horo.mail.ru.Horoscopes_Tests.Test2",
+  "historyId" : "852558cbed0bbf8017f04f234ae3a1b7",
+  "time" : {
+    "start" : 1526496875158,
+    "stop" : 1526496915459,
+    "duration" : 40301
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "horo.mail.ru"
+  }, {
+    "name" : "testClass",
+    "value" : "horo.mail.ru.Horoscopes_Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test2"
+  }, {
+    "name" : "suite",
+    "value" : "horo.mail.ru.Horoscopes_Tests"
+  }, {
+    "name" : "host",
+    "value" : "IVAN"
+  }, {
+    "name" : "thread",
+    "value" : "2200@IVAN.pool-1-thread-3(20)"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b4863c604b73b10.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,10 @@
+[0518/132254.252:ERROR:process_info.cc(359)] UncheckedAllocate
+[0518/132254.844:ERROR:file_io_win.cc(161)] CreateFile C:\Users\3C8A~1\AppData\Local\Temp\scoped_dir3596_32659\Crashpad\settings.dat: Не удается найти указанный файл. (0x2)
+[0518/132612.126:ERROR:process_info.cc(359)] UncheckedAllocate
+[0518/140240.708:ERROR:process_info.cc(359)] UncheckedAllocate
+[0518/140323.279:ERROR:process_info.cc(359)] UncheckedAllocate
+[0518/140339.680:ERROR:process_info.cc(359)] UncheckedAllocate
+[0518/140407.464:ERROR:process_info.cc(359)] UncheckedAllocate
+[0518/140407.675:ERROR:process_info.cc(359)] UncheckedAllocate
+[0518/140407.802:ERROR:file_io.cc(134)] WriteFile: Недостаточно места на диске. (0x70)
+[0518/140407.802:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed

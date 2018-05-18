@@ -1,0 +1,116 @@
+{
+  "uid" : "fa1e8725fc96f56a",
+  "name" : "Test5",
+  "fullName" : "horo.mail.ru.Horoscopes_Tests.Test5",
+  "historyId" : "6c77a24af88b47ec00e5a4869577548b",
+  "time" : {
+    "start" : 1526552546710,
+    "stop" : 1526552556416,
+    "duration" : 9706
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "horo.mail.ru"
+  }, {
+    "name" : "testClass",
+    "value" : "horo.mail.ru.Horoscopes_Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test5"
+  }, {
+    "name" : "suite",
+    "value" : "horo.mail.ru.Horoscopes_Tests"
+  }, {
+    "name" : "host",
+    "value" : "IVAN"
+  }, {
+    "name" : "thread",
+    "value" : "7108@IVAN.pool-1-thread-6(23)"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "4cc08cf4a7a409f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526552250544,
+        "stop" : 1526552261449,
+        "duration" : 10905
+      }
+    }, {
+      "uid" : "d6a417802b925a61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526551913743,
+        "stop" : 1526551952802,
+        "duration" : 39059
+      }
+    }, {
+      "uid" : "b151192e72c82b4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526551743288,
+        "stop" : 1526551750027,
+        "duration" : 6739
+      }
+    }, {
+      "uid" : "548096147cc84582",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526496875158,
+        "stop" : 1526497103023,
+        "duration" : 227865
+      }
+    }, {
+      "uid" : "3e5be8b4f62ebe81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526496289392,
+        "stop" : 1526496331129,
+        "duration" : 41737
+      }
+    }, {
+      "uid" : "14e16193b3d51e29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526493162192,
+        "stop" : 1526493213007,
+        "duration" : 50815
+      }
+    }, {
+      "uid" : "e93a50a701070e8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526492774989,
+        "stop" : 1526492805965,
+        "duration" : 30976
+      }
+    }, {
+      "uid" : "530f222f38aaff89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526491665282,
+        "stop" : 1526491717460,
+        "duration" : 52178
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa1e8725fc96f56a.json",
+  "parameterValues" : [ ]
+}

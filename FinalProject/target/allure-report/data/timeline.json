@@ -1,0 +1,89 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "IVAN",
+    "children" : [ {
+      "name" : "7108@IVAN.pool-1-thread-2(19)",
+      "children" : [ {
+        "name" : "Test",
+        "uid" : "4ad0e2ec014356cb",
+        "parentUid" : "e76237e25da4527f156c6c353b2f9756",
+        "status" : "passed",
+        "time" : {
+          "start" : 1526552546710,
+          "stop" : 1526552719209,
+          "duration" : 172499
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e76237e25da4527f156c6c353b2f9756"
+    }, {
+      "name" : "7108@IVAN.pool-1-thread-5(22)",
+      "children" : [ {
+        "name" : "Test4",
+        "uid" : "21473864d24236fe",
+        "parentUid" : "78000879f7fd4cc4c4ccfeaef652a312",
+        "status" : "passed",
+        "time" : {
+          "start" : 1526552546710,
+          "stop" : 1526552559468,
+          "duration" : 12758
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "78000879f7fd4cc4c4ccfeaef652a312"
+    }, {
+      "name" : "7108@IVAN.pool-1-thread-4(21)",
+      "children" : [ {
+        "name" : "Test3",
+        "uid" : "3b351e7dcb6ece9f",
+        "parentUid" : "9b8e76102035b85eabd0b86af2d7394f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1526552546710,
+          "stop" : 1526552687161,
+          "duration" : 140451
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b8e76102035b85eabd0b86af2d7394f"
+    }, {
+      "name" : "7108@IVAN.pool-1-thread-6(23)",
+      "children" : [ {
+        "name" : "Test5",
+        "uid" : "fa1e8725fc96f56a",
+        "parentUid" : "bc723983ebff619f01599d699e3b8a05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1526552546710,
+          "stop" : 1526552556416,
+          "duration" : 9706
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bc723983ebff619f01599d699e3b8a05"
+    }, {
+      "name" : "7108@IVAN.pool-1-thread-3(20)",
+      "children" : [ {
+        "name" : "Test2",
+        "uid" : "fe5990646d106185",
+        "parentUid" : "85ae265c4afaa3676569c93089e305fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1526552546710,
+          "stop" : 1526552784459,
+          "duration" : 237749
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "85ae265c4afaa3676569c93089e305fd"
+    } ],
+    "uid" : "654cb5dddc5d2037064f3e44fd21b860"
+  } ]
+}

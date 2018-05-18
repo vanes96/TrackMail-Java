@@ -1,0 +1,69 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "horo.mail.ru",
+    "children" : [ {
+      "name" : "Test",
+      "uid" : "4ad0e2ec014356cb",
+      "parentUid" : "73aa7769439f70635a75deb43299ab9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526552546710,
+        "stop" : 1526552719209,
+        "duration" : 172499
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test4",
+      "uid" : "21473864d24236fe",
+      "parentUid" : "73aa7769439f70635a75deb43299ab9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526552546710,
+        "stop" : 1526552559468,
+        "duration" : 12758
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test3",
+      "uid" : "3b351e7dcb6ece9f",
+      "parentUid" : "73aa7769439f70635a75deb43299ab9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526552546710,
+        "stop" : 1526552687161,
+        "duration" : 140451
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test5",
+      "uid" : "fa1e8725fc96f56a",
+      "parentUid" : "73aa7769439f70635a75deb43299ab9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526552546710,
+        "stop" : 1526552556416,
+        "duration" : 9706
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test2",
+      "uid" : "fe5990646d106185",
+      "parentUid" : "73aa7769439f70635a75deb43299ab9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526552546710,
+        "stop" : 1526552784459,
+        "duration" : 237749
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "horo.mail.ru"
+  } ]
+}

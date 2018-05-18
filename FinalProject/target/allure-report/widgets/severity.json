@@ -1,0 +1,51 @@
+[ {
+  "uid" : "fa1e8725fc96f56a",
+  "name" : "Test5",
+  "time" : {
+    "start" : 1526552546710,
+    "stop" : 1526552556416,
+    "duration" : 9706
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "4ad0e2ec014356cb",
+  "name" : "Test",
+  "time" : {
+    "start" : 1526552546710,
+    "stop" : 1526552719209,
+    "duration" : 172499
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "fe5990646d106185",
+  "name" : "Test2",
+  "time" : {
+    "start" : 1526552546710,
+    "stop" : 1526552784459,
+    "duration" : 237749
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "3b351e7dcb6ece9f",
+  "name" : "Test3",
+  "time" : {
+    "start" : 1526552546710,
+    "stop" : 1526552687161,
+    "duration" : 140451
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "21473864d24236fe",
+  "name" : "Test4",
+  "time" : {
+    "start" : 1526552546710,
+    "stop" : 1526552559468,
+    "duration" : 12758
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

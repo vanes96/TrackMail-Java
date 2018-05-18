@@ -1,0 +1,126 @@
+{
+  "uid" : "4ad0e2ec014356cb",
+  "name" : "Test",
+  "fullName" : "horo.mail.ru.Horoscopes_Tests.Test",
+  "historyId" : "854abd0bdb2526ad467c3cea09a534dd",
+  "time" : {
+    "start" : 1526552546710,
+    "stop" : 1526552719209,
+    "duration" : 172499
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "horo.mail.ru"
+  }, {
+    "name" : "testClass",
+    "value" : "horo.mail.ru.Horoscopes_Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test"
+  }, {
+    "name" : "suite",
+    "value" : "horo.mail.ru.Horoscopes_Tests"
+  }, {
+    "name" : "host",
+    "value" : "IVAN"
+  }, {
+    "name" : "thread",
+    "value" : "7108@IVAN.pool-1-thread-2(19)"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "c4e2e5f8f262554",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526551913743,
+        "stop" : 1526551929294,
+        "duration" : 15551
+      }
+    }, {
+      "uid" : "a0644c12fc21b5a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526550857747,
+        "stop" : 1526550871189,
+        "duration" : 13442
+      }
+    }, {
+      "uid" : "f050bcce853d7d0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526550780354,
+        "stop" : 1526550792119,
+        "duration" : 11765
+      }
+    }, {
+      "uid" : "af829e9ee5eacff3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526513522141,
+        "stop" : 1526513532213,
+        "duration" : 10072
+      }
+    }, {
+      "uid" : "f2b7b8af1a432eae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526496875158,
+        "stop" : 1526496919571,
+        "duration" : 44413
+      }
+    }, {
+      "uid" : "bdfec07e1ff58cf1",
+      "status" : "broken",
+      "statusDetails" : "timeout\n  (Session info: chrome=66.0.3359.139)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'\nSystem info: host: 'IVAN', ip: '192.168.59.3', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\3C8A~1\\AppData\\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}\nSession ID: 19df5c64f92d0fc86770f3d30dc5936b",
+      "time" : {
+        "start" : 1526496289392,
+        "stop" : 1526496594926,
+        "duration" : 305534
+      }
+    }, {
+      "uid" : "277dbd87a14c583f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526493162192,
+        "stop" : 1526493401255,
+        "duration" : 239063
+      }
+    }, {
+      "uid" : "9ed5b9361e19bb4a",
+      "status" : "broken",
+      "statusDetails" : "timeout\n  (Session info: chrome=66.0.3359.139)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'\nSystem info: host: 'IVAN', ip: '192.168.59.3', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_101'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\3C8A~1\\AppData\\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}\nSession ID: e80ee517c3f26eefff92aab13927234a",
+      "time" : {
+        "start" : 1526492774989,
+        "stop" : 1526493081068,
+        "duration" : 306079
+      }
+    }, {
+      "uid" : "3a60745cd75087ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1526491665282,
+        "stop" : 1526491698978,
+        "duration" : 33696
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ad0e2ec014356cb.json",
+  "parameterValues" : [ ]
+}
